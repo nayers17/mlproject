@@ -49,7 +49,7 @@ README.md                 # Project documentation (this file)
    ```bash
    docker run -d      -p 5000:5000      --name ml-app      ml-app
    ```
-3. **Browse** to http://localhost:5000/
+3. **Browse** to http://localhost:5000/predictdata
 
 ## Running Locally without Docker
 ```bash
